@@ -1,6 +1,6 @@
 ### Hi, I'm Jeff 👋
 
-[!(https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/digitaljeff) [!(https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jrogers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/digitaljeff) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jrogers)
 
 I'm a Staff Software Engineer at Wealthsimple, one of Canada's top fintech companies, where I'm largely responsible for backend distributed systems powering transaction processing and trading.
 
