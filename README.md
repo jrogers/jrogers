@@ -7,4 +7,4 @@ I'm a Staff Software Engineer at Wealthsimple, one of Canada's top fintech compa
 - 🔭 I’m currently working on living a more enjoyable life
 - 🌱 I’m currently learning newer programming languages like Kotlin, TypeScript and Rust
 - 📫 How to reach me: `jeffcrogers at gmail dot com`
-- 😄 Pronouns: He/him
+- 😄 Pronouns: he/him
