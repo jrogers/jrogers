@@ -4,6 +4,6 @@
 
 I'm a software engineer at Wealthsimple, one of Canada's top fintech companies, where I'm largely responsible for the backend distributed systems powering transaction processing and trading.
 
-- 🌱 I’m currently working with newer programming languages like Kotlin and TypeScript, and experimenting with Rust
+- 🌱 I’m currently working with programming languages like Kotlin and TypeScript, and experimenting with Rust
 - 📫 How to reach me: `jeffcrogers at gmail dot com`
 - 😄 Pronouns: he/him
