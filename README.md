@@ -6,4 +6,3 @@ I'm a software developer at Wealthsimple, one of Canada's top fintech companies,
 
 - 🌱 I’m currently working with programming languages like Kotlin and TypeScript, and experimenting with Rust
 - 📫 How to reach me: `jeffcrogers at gmail dot com`
-- 😄 Pronouns: he/him
